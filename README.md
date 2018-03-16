@@ -12,7 +12,7 @@ Upvote bot on Steem Blockchain for Discord
 
 # How to install?
 
-* git clone github repo
+* git clone https://github.com/yanosh01/minnowhelpme.git
 * npm install
 * npm run dev
 
