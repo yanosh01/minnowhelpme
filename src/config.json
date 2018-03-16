@@ -1,0 +1,6 @@
+{
+  "mongoUrl": "mongodb://localhost:27017/myproject",
+  "channelId": "123123123",
+  "trigger": "$",
+  "timeAllowed": "43200"
+}
